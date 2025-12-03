@@ -1,27 +1,27 @@
-UZMAN ELEKTRONiK         Bank 1 Radyo 1  http://s0.radiohost.pl:8018/stream
-Radio POPULAR GREECE     Bank 1 Radyo 2  https://shoutcast.k-planet.eu:8056/stream
-RADIO DEILINA GREECE     Bank 1 Radyo 3  https://cast2.radiohost.ovh/dilina103?mp=/stream
-AMATEUR GARGAILANI       Bank 1 Radyo 4  https://i2.streams.ovh:7109/stream
-Radio SMOOK GREECE       Bank 1 Radyo 5  https://s2.e-resellers.gr/proxy/smokradio/stream
-Radio LD GREECE          Bank 1 Radyo 6  https://solid2.streamupsolutions.com/proxy/ugkkakew?mp=/;
-GREEK MUSIC              Bank 1 Radyo 7  https://samcloud.spacial.com/api/listen?sid=73236&m=sc
-Radio AGiASOS            Bank 1 Radyo 8  https://centova.streams.gr:8088/stream
-PENA FM GREECE           Bank 1 Radyo 9  https://stream-mp3aac.live24.gr/max925-her
-Smoothjazz.com.pl        Bank 1 Radyo 10  https://bcast.vigormultimedia.com:48888/sjcompl320mp3
-ALEM FM                  Bank 1 Radyo 11  http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-ANKARA HAVALARI          Bank 1 Radyo 12  http://37.247.98.8/stream/30/;
-BEST FM                  Bank 1 Radyo 13  http://46.20.7.126/;stream.mp3
-Radio LAB GREECE         Bank 1 Radyo 14  https://sp.streams.ovh/8060/stream
-HOUSE FUNK               Bank 1 Radyo 15  http://houseoffunk.eu:1666/live
-GUITAR GENIUS STEREO     Bank 1 Radyo 16  http://gr02.cdnstream.com:8020/;
-Mega Radio GEORGE MICHAELBank 1 Radyo 17  http://streaming.exclusive.radio/er/georgemichael/icecast.audio
-Meloradio Slask          Bank 1 Radyo 18  https://n-11-28.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
-PR-1 Polskiego Radia     Bank 1 Radyo 19  http://mp3.polskieradio.pl:8900/;
-PR-2 Polskiego Radia     Bank 1 Radyo 20  http://stream3.polskieradio.pl:8952
-PR-3 Polskiego Radia     Bank 1 Radyo 21  http://mp3.polskieradio.pl:8904/;
-PR-4 Polskiego Radia     Bank 1 Radyo 22  http://stream3.polskieradio.pl:8906
-PR24 Polskie Radia       Bank 1 Radyo 23  http://mp3.polskieradio.pl:8080/;
-Rock Radio Polska        Bank 1 Radyo 24  https://radiostream.pl/tuba9006-1.mp3
+KARADENiZ FM             Bank 1 Radyo 1  https://wowza1.radyotvonline.com/unitedmedia/karadenizfm.stream/playlist.m3u8
+SLOW KARADENiZ           Bank 1 Radyo 2  http://dinle.slowkaradenizfm.com:9578/
+ALEM FM                  Bank 1 Radyo 3  http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+BEST FM                  Bank 1 Radyo 4  http://46.20.7.126/;stream.mp3
+KRAL POP                 Bank 1 Radyo 5  http://kralpopwmp.radyotvonline.com/
+ANKARA HAVALARI          Bank 1 Radyo 6  http://37.247.98.8/stream/30/;
+ARABESK DAMAR            Bank 1 Radyo 7  http://canli.arabeskinmerkezi.com:9180/stream
+UZMAN ELEKTRONiK         Bank 1 Radyo 8  http://s0.radiohost.pl:8018/stream
+ALTIN SARKILAR           Bank 1 Radyo 9  http://37.247.98.8/stream/25/;
+POPULAR GREECE           Bank 1 Radyo 10  https://shoutcast.k-planet.eu:8056/stream
+RADIO DEILINA GREECE     Bank 1 Radyo 11  https://cast2.radiohost.ovh/dilina103?mp=/stream
+AMATEUR GARGAILANI       Bank 1 Radyo 12  https://i2.streams.ovh:7109/stream
+Radio SMOK GREECE        Bank 1 Radyo 13  https://s2.e-resellers.gr/proxy/smokradio/stream
+Radio LD GREECE          Bank 1 Radyo 14  https://solid2.streamupsolutions.com/proxy/ugkkakew?mp=/;
+GREEK MUSIC              Bank 1 Radyo 15  https://samcloud.spacial.com/api/listen?sid=73236&m=sc
+GREEK FOLK  MUSIC        Bank 1 Radyo 16  https://radiostreaming.ert.gr/ert-defteroparadosiaka
+Radio AGiASOS            Bank 1 Radyo 17  https://centova.streams.gr:8088/stream
+PENA FM GREECE           Bank 1 Radyo 18  https://stream-mp3aac.live24.gr/max925-her
+Smoothjazz.com.pl        Bank 1 Radyo 19  https://bcast.vigormultimedia.com:48888/sjcompl320mp3
+Radio LAB GREECE         Bank 1 Radyo 20  https://sp.streams.ovh/8060/stream
+HOUSE FUNK               Bank 1 Radyo 21  http://houseoffunk.eu:1666/live
+GUITAR GENIUS STEREO     Bank 1 Radyo 22  http://gr02.cdnstream.com:8020/;
+GEORGE MICHAEL           Bank 1 Radyo 23  http://streaming.exclusive.radio/er/georgemichael/icecast.audio
+POLiS RADYOSU            Bank 1 Radyo 24  https://m.egm.gov.tr:8093/
 181.fm Country 80's      Bank 1 Radyo 25  http://listen.181fm.com:8134
 181.fm Country 90's      Bank 1 Radyo 26  http://listen.181fm.com/181-90scountry_128k.mp3?noPreRoll=true#181.FM
 181.fm - Highway 181     Bank 1 Radyo 27  https://listen.181fm.com/181-highway_128k.mp3
