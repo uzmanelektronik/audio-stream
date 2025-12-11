@@ -83,7 +83,7 @@ Radio Paradise Mellow    Bank 1 Radyo 82  http://stream.radioparadise.com/mellow
 Radio Paradise Rock Mix  Bank 1 Radyo 83  http://stream.radioparadise.com/rock-flac
 Radio Paradise Global    Bank 1 Radyo 84  http://stream.radioparadise.com/global-flac
 Radio The Zone Dublin    Bank 1 Radyo 85  http://uk1.internet-radio.com:8355/
-Radio Dance Wave Retro   Bank 1 Radyo 86  https://retro.dancewave.online/retrodance.flac.ogg.m3u
+Radio Dance Wave Retro   Bank 1 Radyo 86  https://retro.dancewave.online/retrodance.flac.ogg.m3u    
 Radio Dance Wave         Bank 1 Radyo 87  https://dancewave.online/dance.flac.ogg.m3u
 Muzyczne Radio           Bank 1 Radyo 88  https://stream3.nadaje.com:8593
 Radio Classic Rock PlanetBank 1 Radyo 89  http://us5.internet-radio.com:8279/
@@ -95,4 +95,5 @@ DiscoParty.pl - Disco 1  Bank 1 Radyo 94  https://s1.slotex.pl/shoutcast/7432/st
 DiscoParty.pl - Disco 2  Bank 1 Radyo 95  https://s3.slotex.pl/shoutcast/7046/stream
 Soundtracks Radio        Bank 1 Radyo 96  http://uk5.internet-radio.com:8256/
 Radio Paradise           Bank 1 Radyo 97  http://stream-dc1.radioparadise.com/rp_192m.ogg
-Radio THE RAVE ZONE 24h  Bank 1 Radyo 98  http://stream-vie.radio-zone.ru:8000/rz_vie_ogg_256
+Radio THE RAVE ZONE 24h  Bank 1 Radyo 98  http://stream-vie.radio-zone.ru:8000/rz_vie_ogg_256 
+RADYO EKiN               Bank 1 Radyo 99  http://yayin.turkhosted.com:6006/
