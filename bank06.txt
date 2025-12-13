@@ -1,7 +1,7 @@
 Round and Sound radio     Bank 6 Stacja 1   http://stream.roundandsound.nl:80/;
 Smooth                    Bank 6 Stacja 2   http://stream.klassikradio.de/smooth/mp3-192/www.klassikradio.de/
 Smoothjazz.com.pl         Bank 6 Stacja 3   https://bcast.vigormultimedia.com:48888/sjcompl320mp3
-Smoothjazz.com.pl         Bank 6 Stacja 4   http://bcast.vigormultimedia.com:8888/sjcompl320mp3
+Smoothjazz.com.pl         Bank 6 Stacja 4   https://bcast.vigormultimedia.com:8888/sjcompl320mp3
 BluesRadio Athens Greece  Bank 6 Stacja 5   https://live.bluesradio.gr:8352/; 
 Classic Vinyl             Bank 6 Stacja 6   https://icecast.walmradio.com:8443/classic
 Smooth Jazz               Bank 6 Stacja 7   https://bcast.vigormultimedia.com:48888/sjcompl320mp3
