@@ -18,7 +18,7 @@ Radio AGiASOS            Bank 1 Radyo 17  https://centova.streams.gr:8088/stream
 PENA FM GREECE           Bank 1 Radyo 18  https://stream-mp3aac.live24.gr/max925-her
 Smoothjazz.com.pl        Bank 1 Radyo 19  https://bcast.vigormultimedia.com:48888/sjcompl320mp3
 Radio LAB GREECE         Bank 1 Radyo 20  https://sp.streams.ovh/8060/stream
-HOUSE FUNK               Bank 1 Radyo 21  http://houseoffunk.eu:1666/live
+RADYO EKiN               Bank 1 Radyo 21  http://yayin.turkhosted.com:6006/
 GUITAR GENIUS STEREO     Bank 1 Radyo 22  http://gr02.cdnstream.com:8020/;
 GEORGE MICHAEL           Bank 1 Radyo 23  http://streaming.exclusive.radio/er/georgemichael/icecast.audio
 POLiS RADYOSU            Bank 1 Radyo 24  https://m.egm.gov.tr:8093/
