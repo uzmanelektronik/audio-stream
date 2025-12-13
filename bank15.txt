@@ -1,5 +1,5 @@
 Radio Paradise Mellow     Bank 15 Stacja 1   http://stream.radioparadise.com/mellow-flacm
-Radio Paradise World-Etc BBank 15 Stacja 2   http://stream.radioparadise.com/world-etc-flacm
+Radio Paradise World-Etc  Bank 15 Stacja 2   http://stream.radioparadise.com/world-etc-flacm
 Radio Paradise            Bank 15 Stacja 3   http://stream.radioparadise.com/flacm
 Radio Paradise Rock Mix   Bank 15 Stacja 4   http://stream.radioparadise.com/rock-flacm
 New Clear Radio           Bank 15 Stacja 5   http://live.ncradio.fm/320
